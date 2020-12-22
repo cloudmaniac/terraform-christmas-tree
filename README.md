@@ -1,6 +1,5 @@
-# Terraform Configuration Template
+# Christmas Tree in ASCII Art with Terraform
 
-(Almost) Empty repository with a base Terraform configuration.
-Update this README with information relevant for you.
+Have a look to the [Christmas Tree Terraform Provider](https://registry.terraform.io/providers/cappyzawa/christmas-tree/latest).
 
-Happy Coding!
+Colors are customizable (balls, lights and stars): have a look to the [documentation](https://registry.terraform.io/providers/cappyzawa/christmas-tree/latest/docs/resources/christmas-tree).
